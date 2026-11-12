@@ -1,4 +1,4 @@
-### HAIII!!! <3👋
+:3
 
 <!--
 **puterifarah/puterifarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
